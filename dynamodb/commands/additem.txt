@@ -1,0 +1,1 @@
+aws dynamodb put-item --table-name Songs --item file://song-1-data.json --endpoint-url http://localhost:8000
